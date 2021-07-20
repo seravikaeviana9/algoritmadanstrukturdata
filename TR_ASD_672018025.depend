@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1586210081 source:f:\tugas\kuliah\asd\tr_asd_672018025\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
